@@ -1,4 +1,4 @@
-##Welcome to Blockstock! 
+# Welcome to Blockstock! 
 
 Blockstock is an online marketplace for 3D Minecraft models where you can find high-quality models for your projects. 
 We have recently opened up our platform for outside vendors, giving them access to our GitHub repository so they can get an insight into upcoming features and log any issues they are experiencing. 
@@ -7,11 +7,11 @@ Whether you are a seasoned veteran in the industry or a novice just starting out
 
 The Blockstock GitHub page gives you access to our roadmap of updates as well as providing an opportunity to give us feedback on features we are working on. You can also report any issues that may arise during use of our products so that we can take quick action against them. This helps us ensure the highest level of quality control when it comes to using Blockstock products. 
 
-#Apply
+## Apply
 Want to apply to become a Blockstock Vendor?
-You can fill in this form and we will get back to you with the speed of light!
+You can [fill in this form](https://blockstock.link/vendor-apply) and we will get back to you with the speed of light!
 
-#Questions
+## Questions
 Got any other questions? Just send us an email at hello@blockstock.gg
 
 We hope you enjoy using Blockstock as much as we enjoy offering it to you!
