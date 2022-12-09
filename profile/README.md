@@ -12,7 +12,7 @@ Want to apply to become a Blockstock Vendor?
 You can [fill in this form](https://blockstock.link/vendor-apply) and we will get back to you with the speed of light!
 
 ## Wiki
-To help our vendors get started, we’ve created this Github Wiki as a resource center. Here you’ll find detailed instructions on [how to package](https://github.com/Blockstock-gg/.github/wiki/Packaging-a-3D-Model) and [upload content](https://github.com/Blockstock-gg/.github/wiki/Upload-a-3D-Model)!
+To help our vendors get started, we’ve created this [Github Wiki](https://github.com/Blockstock-gg/.github/wiki) as a resource center. Here you’ll find detailed instructions on [how to package](https://github.com/Blockstock-gg/.github/wiki/Packaging-a-3D-Model) and [upload content](https://github.com/Blockstock-gg/.github/wiki/Upload-a-3D-Model)!
 
 ## Questions
 Got any other questions? Just send us an email at hello@blockstock.gg
